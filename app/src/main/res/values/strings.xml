@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">lab6JoseAuyon201579</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="good_morning">Good Morning,</string>
+    <string name="jos_auy_n">José Auyón</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="library">Library</string>
+    <string name="trap_argentino">Trap Argentino</string>
+    <string name="hip_hop">Hip-Hop</string>
+    <string name="workout">Workout</string>
+    <string name="rock">Rock</string>
+    <string name="search">Search</string>
+    <string name="your_top_genres">Your top genres</string>
+    <string name="string_add">add</string>
+    <string name="your_library">Your Library</string>
+    <string name="todo">TODO</string>
+    <string name="liked_songs">Liked Songs</string>
+    <string name="add">add</string>
+</resources>
